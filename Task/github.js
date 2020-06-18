@@ -22,7 +22,7 @@ const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 const repositories = [
   {
     name: "NZW9314 脚本",
-    file_names: ["Tasks/jd_fruit.js","Tasks/jd_pet.js"],
+    file_names: ["Task/jd_fruit.js","Task/jd_pet.js"],
     url: "https://github.com/nzw9314/QuantumultX/tree/master",
   },
   {
