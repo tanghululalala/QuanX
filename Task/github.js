@@ -44,7 +44,7 @@ const repositories = [
   {
     name: "Peng-YM---github",
     file_names: ["github.js"],
-    url: "https://github.com/Peng-YM/QuanX/tree/master",//路径模板🌟
+    url: "https://github.com/Peng-YM/QuanX/tree/master/Tasks",//路径模板🌟
   },
   {
     name: "NobyDa",
