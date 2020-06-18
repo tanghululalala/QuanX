@@ -22,7 +22,7 @@ const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 const repositories = [
   {
     name: "NZW9314 脚本",
-    file_names: ["jd_fruit.js","jd_pet.js"],
+    file_names: ["Tasks/jd_fruit.js","Tasks/jd_pet.js"],
     url: "https://github.com/nzw9314/QuantumultX/tree/master",
   },
   {
@@ -43,8 +43,8 @@ const repositories = [
   },
   {
     name: "Peng-YM---github",
-    file_names: ["github.js"],
-    url: "https://github.com/Peng-YM/QuanX/tree/master/Tasks",//路径模板🌟
+    file_names: ["Tasks/github.js"],
+    url: "https://github.com/Peng-YM/QuanX/tree/master",//路径模板🌟
   },
   {
     name: "NobyDa",
