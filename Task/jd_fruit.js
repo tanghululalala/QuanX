@@ -18,6 +18,7 @@ var shareCodes = [ // 这个列表填入你要助力的好友的shareCode
     'a6f686a9f6aa4c80977370b03681c553',
     'f92cb56c6a1349f5a35f0372aa041ea0',
     'a9360baeceb04c9baaaa109f5d428d3c',
+    '0022dcd5bf5947c58bdb2c31cdb0e073',	//tg:jclee
 ]
 var Task = step();
 Task.next();
